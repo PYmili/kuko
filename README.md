@@ -1,4 +1,4 @@
-# [kuko](https://www.kuko.icu/Mili_Wallpaper)
+# [kuko](https://www.kuko.icu)
 
 ![kuko.ico](/static/index/favicon.ico)
 
