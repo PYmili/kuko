@@ -1,10 +1,10 @@
 # [kuko](https://www.kuko.icu/Mili_Wallpaper)
 
-![kuko.ico](https://www.kuko.icu/static/index/favicon.ico)
+![kuko.ico](/static/index/favicon.ico)
 
 ___
 
-![demonstration_home](./static/index/demonstration_home.png)
+![demonstration_home](/static/index/demonstration_home.png)
 
 使用 **flask** 框架制作
 
