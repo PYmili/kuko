@@ -8,7 +8,7 @@ ___
 
 ## 功能
 
-- index http://127.0.0.1/
+- index http://127.0.0.1:8990
 
     主页 (/templates/index.html) 静态资源 (/static/index/*)
 
@@ -16,35 +16,21 @@ ___
 
   None
 
-- Mili_Wallpaper http://127.0.0.1/Mili_Wallpaper
-
-  Mili_Wallpaper 官网 [Github-Mili_Wallpaper](https://github.com/PYmili/Mili_Wallpaper)
-
-  (/templates/Mili_Wallpaper.html) 静态资源(/static/Mili_Wallpaer)
-
-- RziL http://127.0.0.1/RziL
-
-  音乐搜索网页 (/templates/RziL.html) 静态资源(/static/RziL)
-
 - API
 
-  - rembg http://127.0.0.1/rembg
+  - RandomAudio
+    ```http://127.0.0.1:8990/API/RandomAudo?role=xxx```
     
-    静态资源 (/static/rembg)
-    
-    ```
-    使用Python第三方库深度学习库rembg实现图片人物扣取
-    http://127.0.0.1/rembg?file=一个图片的网页链接
-    ```
+    静态资源 (/static/)
   
-  - share http://127.0.0.1/API/share
+  - share
   
     ```
     共享 /static/share下所有文件
-    http://127.0.0.1/API/share?filename=文件名
+     http://127.0.0.1:8990/share?filename=xxx
     ```
   
-  - PixivImage http://127.0.0.1/API/PixivImage
+  - PixivImage http://127.0.0.1:8990/API/PixivImage
     
     随机返回一个P站图片
 
