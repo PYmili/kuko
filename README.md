@@ -4,8 +4,6 @@
 
 ___
 
-![demonstration_home](/static/index/images/demonstration_home.png)
-
 使用 **flask** 框架制作
 
 ## 功能
