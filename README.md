@@ -1,10 +1,10 @@
 # [kuko](https://www.kuko.icu)
 
-![kuko.ico](/static/index/favicon.ico)
+![kuko.ico](/static/index/images/favicon.ico)
 
 ___
 
-![demonstration_home](/static/index/demonstration_home.png)
+![demonstration_home](/static/index/images/demonstration_home.png)
 
 使用 **flask** 框架制作
 
